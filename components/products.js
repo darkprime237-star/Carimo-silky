@@ -1,0 +1,8 @@
+export const products = [
+ {id:'01',action:'Nettoyer',name:'Shampoing restructurant',short:'Shampoing',type:'pump',description:'Le premier geste du rituel. Nettoie en douceur, hydrate et répare les cheveux tout en leur redonnant vitalité et éclat.',detail:'Nettoie · Hydrate · Fortifie',english:'RESTRUCTURING SHAMPOO'},
+ {id:'02',action:'Démêler',name:'Après-shampoing revitalisant',short:'Après-shampoing',type:'pump',description:'La douceur retrouvée. Démêle et répare, nourrit en profondeur pour des cheveux plus doux, plus souples et plus brillants.',detail:'Démêle · Nourrit · Assouplit',english:'REJUVENATING CONDITIONER'},
+ {id:'03',action:'Traiter',name:'Masque de traitement',short:'Masque',type:'jar',description:'Un soin en profondeur qui répare, revitalise et renforce pour des cheveux plus sains et plus résistants.',detail:'Répare · Revitalise · Renforce',english:'REVIVING DEEP MASK'},
+ {id:'04',action:'Définir',name:'Crème bouclante',short:'Crème bouclante',type:'pump',description:'Le mouvement prend forme. Définit et sublime les boucles, hydrate et nourrit sans alourdir, pour des boucles souples et bien dessinées.',detail:'Définit · Hydrate · Nourrit',english:'CURL DEFINING CREAM'},
+ {id:'05',action:'Coiffer',name:'Gel coiffant',short:'Gel coiffant',type:'jar',description:'Sculptez votre signature. Fixe la coiffure et apporte brillance et tenue sans résidus, pour un fini naturel et longue durée.',detail:'Fixe · Sculpte · Fait briller',english:'CURL DEFINING GEL'},
+ {id:'06',action:'Sublimer',name:'Huile de cheveux',short:'Huile',type:'oil',description:'La touche finale. Nourrit, fait briller et protège, pour une dernière note de douceur et d’éclat.',detail:'Nourrit · Illumine · Protège',english:'HAIR OIL'}
+];
