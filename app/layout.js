@@ -1,4 +1,6 @@
+import './fonts.css';
 import './globals.css';
-export const metadata = {title:'SILKY — L’art du soin, par CARIMO',description:'Six gestes. Une signature. Découvrez l’univers Silky Argan Oil de Carimo dans une expérience immersive en 3D.'};
-export const viewport = { themeColor:'#edeae2' };
+import './invitation.css';
+export const metadata = {title:'Invitation Silky — Atelier découverte CARIMO',description:'Carimo invite 10 salons à découvrir la gamme Silky : démonstration en direct, kit découverte offert à chaque salon présent et présentation du partenariat.'};
+export const viewport = { themeColor:'#0c0c0a' };
 export default function RootLayout({children}) {return <html lang="fr"><body>{children}</body></html>}
